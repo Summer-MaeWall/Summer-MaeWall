@@ -1,3 +1,5 @@
-# Hello, I am a First year Cyber security and digital Forensics Student at Leeds Beckett University.
+# Hello,
 
-## I like Minecraft
+## I am a First year Cyber security and digital Forensics Student at Leeds Beckett University.
+
+### I like Minecraft

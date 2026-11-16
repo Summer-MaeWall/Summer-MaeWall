@@ -4,6 +4,4 @@
 
 ### I can code in PHP and Python
 
-###
 
-:joy:

@@ -5,7 +5,9 @@
 
 ### :star: I can code in PHP and Python but am interested in learning more coding languages
 
-### :star: I am interested in digital forensics, which I am learning via my studies. 
+### :star: I am interested in digital forensics and game development
+
+###
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Summer-MaeWall&theme=powershell&headerStyle=windows&typingSpeed=80&hostname=github.com&commands=neofetch%2Cuptime%2Clanguages%2Cexit)](https://github.com/Summer-MaeWall)
 

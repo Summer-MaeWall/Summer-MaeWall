@@ -7,7 +7,7 @@
 
 ### :star: I am interested in digital forensics, which I am learning via my studies. 
 
-
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Summer-MaeWall&theme=powershell&headerStyle=windows&typingSpeed=80&hostname=github.com&commands=neofetch%2Cuptime%2Clanguages%2Cexit)](https://github.com/Summer-MaeWall)
 
 
 

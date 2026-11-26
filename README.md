@@ -3,6 +3,11 @@
 
 ### :star: I am a First year Cyber security and digital Forensics Student at Leeds Beckett University.
 
-### :star: I can code in PHP and Python
+### :star: I can code in PHP and Python but am interested in learning more coding languages
+
+### :star: I am interested in digital forensics, which I am learning via my studies. 
+
+
+
 
 
